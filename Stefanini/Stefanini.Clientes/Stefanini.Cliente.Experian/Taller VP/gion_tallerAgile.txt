@@ -1,31 +1,99 @@
-de repente en el 2012 baja, luego en siguiente año sigue bajando y asi sigue
-y en el 2017 0 % de cuota del mercado
-y quien se iba a inmaginar que una empresa tan grande en 5 años casi desaparezca
+buenos dias a todos, bienvenidos a este sesion 
+
+vamos a empezar con un pequeño video que nos a contextualizar por que estamos Aqui.
+
+
+nos presentamos rapidamente mi nombre es Rene Ome
+soy ingeniero de sistemas, scrum master y  agile coach en marcos agiles
+y 
+espacio para  yohana
+
+ahora queremos conocerlos?
+
+en sus mesas van a encontar unas hojas blancas y unos marcadores de colores
+y el objetivo es que como son supuerheores nos cuenten cuales son sus super poderes
+pero tambien esas debilidades, como a superman la criptonita, estan pueden ser laborales o personales
+lo que nos quieran contar
+
+importante, que se dibujen con su super traje y que nos cuenten cual es ese archienemigo 
+con el que luchan constantemente
+
+como nuestra modelo su archienemigo es la falta de compañerismo
+
+para esto tenemos 10 min 
+y 5 minutos para socializarlo
+
+ahora le vamos a entregar las dibujos a las personas XXXXX
+
+y los vamos a ver en ese espacio
+
+reglas de juego
+para que estemos totalmente concentrados en el taller vamos a definir una reglas basicas de juego
+
+en sus mesas hay post it y cada uno va a definir una regla de juego que le gustaria que se cumpliera en esta sesion
+la vamos a escribir y las vamos a tener visibles en este tablero, para que entre todos las hagamos cumplir.
+
+estas son algunas reglas que queremos que se incluyan.
+
+
+lectura de las reglas yohana.
+
+que es ser agil?
+
+cada uno va a escribir en los post it,  para usted que es ser agil?.
+
+para esto tenemos 5 min 
+
+ahora vamos a socializar "que pensaron que es ser agile?"
+
+ok, todas las respuestas son validas 
+ahora vamos a pasar a su super poder y vamos a pegar esas ideas debajo 
+
+
+algien se acuerda de blackberry, alguien tuvo un blackberry , creo que todos tuvimos uno.
+
+este grafico nos muestra las ganancias de la compañia desde el 2006 y el 2016, en donde vemos
+ un contante crecimiento y en 6 años llego a ser la empresa numero 1 de telefonos inteligentes
+ teneindo ganancias de 19900 Millones de dolares y 
+de repente en el 2012 baja un poco sus ganancias, pero quien no tiene un mal año y siguieron como siempre
+, luego en siguiente año bajaron aun mas y asi continuaron año tras años.
+
+- en el 2017 balckberry tenia el 0 % de participacion
+en el mercado de celulares
+- quien se iba a inmaginar que una empresa tan grande una empres que valia 19900 Milloes de Dolares 
+ en menos de 5 años casi desaparezca
 
 referencia twitter
-microsoft en el 2007 dijo
+
+el CEO microsoft en el 2007 dijo
 
 no hay ninguna posibilidad que el iphone vaya a conseguir ningun tipo de cuota
  en el mercado significativa cero posibilidades
 
-le paso lo mismo con la musica, cuando salio el ipod, 
+el Ceo de Nokia: no creo que lo que emos visto hasta ahora se algo que nos vaya hacer cambiar nuestras ideas.
+
+el ceo de blackberry: es un rival mas y pensar que e iphone sea un riego para blackberry es exagerado
+
+y ya sabemos lo que es el iphone es la actualidad, (falta slide de iphone triunfando)
+
+a microsoft le paso lo mismo con la industria de la musica, cuando salio el ipod, 
 apple saco 6 versiones del ipod 6 años
 
-y microsft dijo asi no es como se hacen las cosas las cosas hay que hacer 
-las bien con calidad y 6 años despues sacaron el zune
+y microsft dijo, no asi no es como se hacen las cosas las cosas, las cosas hay que hacer 
+las bien con calidad y 6 años despues lanzaron el zune
  ("quien de ustedes ha tenido un zune")
-para los que no lo saben el zune es el reproductor perfecto, 
-mejor calidad de sonido, el mejor diseño
-pero cuando microsoft lanzo el zune ya no habia mercado.
+para los que no conocen el zune,  es el reproductor perfecto, 
+mejor calidad de sonido, el mejor diseño, las mejores caracteristicas
+pero cuando microsoft se decidio a lanzarlo ya no habia mercado.
 todo era el ipod, incluso todo los repoductores comenzaron a copiarlo,
 todos eran alagaditos con un circulito en el centro
 
 el problema es que los ciclos de productos son muy cortos, cada vez las empresa
-generan un nuevo producto cada mes, incluso cada semana.
+generan nuevos producto,  cada mes, cada semana incluso cada dia.
 
-los negocio ya no son como hace 15 años donde nos imponian los productos
-ahora los clientes tienen una variedad de opciones y no necesariamente son las grandes empresas del mercado
-las startup se estan llevando la cuotas de mercado
+los negocio ya no son como hace 15 años donde nos imponian los productos que queriamos compara
+ahora los clientes tienen una gran variedad de opciones y no necesariamente son las grandes empresas 
+son la pequñas startup las que se estan llevando a los clientes
 
 empresas como uber, whatsapp, spotify, amazon, y otras
 nos cambian las reglas de juego y nos plantearon una forma diferente de hacer las cosas
@@ -33,26 +101,122 @@ nos cambian las reglas de juego y nos plantearon una forma diferente de hacer la
 y hay es donde la agilidad comienza a tener relevancia
 
 por que esta no es solo una moda, es una cultura que ayuda a las organizaciones 
-a ser mas adaptativas, mas rapidas y entiendase rapidas por no solo poner 
-rapido un producto en produccion sino satisfacer una nesecidad del los clientes 
-rapidamente
-mas 
+a ser mas adaptativas,mas flexibles y  mas rapidas y entiendase rapidas por no solo poner  producto rapidos en produccion 
+sino en ser rapidos en escuchar el cliente y crear un producto que logre satifaces sus nesecidades antes que la 
+competencia. 
 
-estamos en un momento de la economia donde ya no es el pez grande el que se come al pequeño
-es el pez rapido que se come al lento
+estamos en un momento de la economia donde ya no es el pez grande el que se come al pez pequeño
+si no el pez rapido que se come al pez lento 
+
+Beneficios de la agilidad
+
+empresas mas competitivas, al ser mas flexibles, mas adptables podemos siempre estar vigentes 
+
+retorno de inversion: a siempre satisfacer una necesidad del los cliente se 
+incrementan las ganancias
+
+las agilidad potencian a las personas ya se promueve el trabajo en equipo, la colaboracion
+
+y en efecto se disminuye el tiempo de entrega de los producto en produccion
+
+razones de adoptar agilidad
+
+acelera la entrega del producto
+se incrementa la productividad
 
 
-Beneficios
+pero todo no puede ser facil
+las principales barreas para la adopcion
 
-mas inovadores, uno de los pilares de la agildad, mejorar continuamente 
-y como se logra inovando
+son la cultura de la organizacion
+resistencia al cambio
+etc
 
-retorno de inversion: a siempre satisfacer una nesecidad del los cliente se 
-incrementan los retornos de inversion
+como vamos hasta aqui Preguntas?
 
-las personas se potencian ya se promueve el trabajo en equipo, la colaboracion
+aparte de los benefcios y bondades de la agilidad
+ hay empresas que  demuestran que la agilidad es el camino a segir
 
-y en efecto se disminuye el time to market de los producto en produccion
+netflix ya cuenta 120 M de suscritores
+facbook hoy optiene ganancias de 9300 M US en solo publicidad 
+
+
+la agilidad se basa en unos valores fundamentales
+
+se valora mas las interacciones entre las personas, que sobre los procesos o herramientas
+no se si aqui pasa que pero ahora es todo por correo y skype asi tenga la persona al frente
+
+productos funcioando sobre docmentacion extenciba
+aqui la agilidad valora mas el producto que el cliente este usuando que la documentacion 
+no quiere decir que no se documente, si no que se documenta lo realmente necesario, 
+he estado en empresa que se hacen dococuementos que nadie lee, que hacen por que toca y nadie sabe para que son.
+ 
+
+colaboracion con el cliente sobre negociacion contractual
+la agilidad pone en el centro al cliente que es al final en que nos compra los productos y debemos estar 
+contantemente  colaborando con el
+
+respuesta ante el cambio ante que segir un plan
+recuendan las empresas del video inicial, estas empresas desaparecieron por no ser flexibles, por no poder maniobrar 
+en los cambios constantes del mercado.
+
+
+preguntas hasta aqui es claro los valores de la agilidad
+
+tambien tenemos 12 principios que soportan los valores que ya vimos
+
+el primero satisfaccion del cliente. recuerdes son la razon de ser de la compañia
+
+los cambios son beinvenidos
+
+.
+.
+.
+.
+.
+.
+
+
+ahora vamos hacer un ejercicio, nos vamos a dividir en 2 grupos de 6 y una de 7 
+
+nos vamos a enumerar de 1 y 2 
+
+en esta actividad vamos a conectar los valores agiles con los valores the experian way
+y los principios con el codigo de honor
+
+se les va entrega unas tarjetas y en 1  en los tableros vamos a ir pegando los valores al frente 
+vamos ir asociando el valor con the exerian way
+
+y en el segundo tablero a hacer los mismo pero con los proncipios agiles con el codigo de honor
+
+
+para esto vamos a tener 15 min
+
+y 10 min para socializarlo
+
+Equipos de alto desenpeño
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
 
 
 Agilidad Empresarial
